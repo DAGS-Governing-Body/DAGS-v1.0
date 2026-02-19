@@ -62,6 +62,7 @@ This document set is organized as a single normative standard package:
 - **README_DAGS_v1.0** – Repository guide and authority boundaries for this DAGS v1.0 package.
 
 **4. How to Read DAGS**
+
 Readers should proceed in the following order:
 
 - **00_Governance/** (scope, authority, language, versioning)
@@ -109,10 +110,15 @@ Use of DAGS does not guarantee outcomes, safety, legality, or acceptance by any 
 **7. Version Status**
 
 This repository contains DAGS v1.0, a foundational normative release.
+
 v1.0 is complete and authoritative
+
 v1.0 is immutable
+
 Future versions will be explicitly versioned and published
+
 All references to DAGS must cite the applicable version.
+
 Errata, if issued, will be versioned and published separately without retroactive modification of this release.
 
 **8. Misuse Warning**
@@ -122,8 +128,11 @@ Any use of this repository that:
 - Substitutes other frameworks or tools
 - Implies certification or endorsement
 - Selectively represents conformance
+
 constitutes misuse of the standard.
+
 Public representations inconsistent with normative requirements may constitute unauthorized use of the standard.
+
 Misuse invalidates claims of DAGS alignment.
 
 **9. Final Authority Statement**
