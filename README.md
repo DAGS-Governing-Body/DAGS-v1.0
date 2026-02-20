@@ -5,11 +5,12 @@ A normative, implementation-neutral standard defining deployment-layer governanc
 
 This repository contains the Deployment AI Governance Standard (DAGS) and its associated governing materials.
 DAGS defines normative deployment-layer governance requirements for AI systems in operation. It is designed to be read, applied, and relied upon by enterprises, insurers, regulators, auditors, and governance practitioners.
+
 This README exists to:
-Orient readers to the structure of the repository
-Clearly identify which materials are normative and binding
-Prevent misinterpretation, substitution, or misuse
-Establish how the standard must be read and applied
+- Orient readers to the structure of the repository
+- Clearly identify which materials are normative and binding
+- Prevent misinterpretation, substitution, or misuse
+- Establish how the standard must be read and applied
 
 **2. Normative Authority**
 
