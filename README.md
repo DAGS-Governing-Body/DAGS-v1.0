@@ -15,6 +15,7 @@ This README exists to:
 **2. Normative Authority**
 
 The only normative content in this repository is located in: DAGS_v1.0/
+
 That folder contains the complete and authoritative DAGS v1.0 normative standard, including:
 - Governance rules
 - Control domains and requirements
