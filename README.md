@@ -160,7 +160,15 @@ Editorial, interpretive, versioning, and equivalency authority is retained exclu
 
 **Status:** Published
 
-Copyright © DAGS Governing Body
+**About**
+
+Paul Mitchell is the steward of the Deployment AI Governance Standard (DAGS) and Managing Director of [Sentient Risk Advisory](https://sentientriskadvisory.com).
+
+His work focuses on AI governance architecture and implementation, including decision authority, agent governance, assurance readiness, evidence, permissions, escalation, and runtime control.
+
+At Sentient, he helps companies put AI governance into operation across AI systems, agents, and automation.
+
+Copyright © 2026 DAGS Governing Body
 
 All Rights Reserved
 
